@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Machine Learning, Deep Learning & MERN Stack**
 - 👯 I’m looking to collaborate on **AI-based Web Applications & Open Source Projects**
 - 💬 Ask me about **Frontend Development, Python, and AI/ML**
-- 📫 Reach me at **adityarajpandey2215@gmail.com**
+- 📫 Reach me at **2k23.psitaiml2311215@gmail.com**
 - ⚡ Fun fact: *"I love solving problems with code and coffee ☕"*
 
 ---
