@@ -503,21 +503,6 @@ const aditya = {
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="30"> **Skill Progression**
-
-<div align="center">
-  
-| Technology | Proficiency | Experience |
-|------------|-------------|------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![90%](https://progress-bar.dev/90/?scale=100&title=Expert&width=200&color=babaca&suffix=%20) | 3+ years |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![85%](https://progress-bar.dev/85/?scale=100&title=Advanced&width=200&color=babaca&suffix=%20) | 2+ years |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) | ![80%](https://progress-bar.dev/80/?scale=100&title=Advanced&width=200&color=babaca&suffix=%20) | 2 years |
-| ![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white) | ![75%](https://progress-bar.dev/75/?scale=100&title=Intermediate&width=200&color=babaca&suffix=%20) | 1.5 years |
-| ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) | ![70%](https://progress-bar.dev/70/?scale=100&title=Intermediate&width=200&color=babaca&suffix=%20) | 1.5 years |
-
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/212284103-c68b4788-7dcf-4a3f-ad2a-de5e5f7e9cce.gif" width="30"> **Featured Projects Showcase**
 
 <div align="center">
