@@ -13,22 +13,13 @@
 ## 🚀 About Me
 
 ```typescript
-interface Developer {
-  name: string;
-  location: string;
-  role: string;
-  languages: string[];
-  specialization: string[];
-  currentFocus: string;
-  interests: string[];
-}
 
 const aditya: Developer = {
   name: "Aditya Raj Pandey",
   location: "India 🇮🇳",
   role: "Full-Stack Developer",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
-  specialization: ["Web Development", "AI/ML", "Cloud Architecture", "DevOps"],
+  languages: ["HTML","CSS""JavaScript","Python", , "C"],
+  specialization: ["Web Development", "AI/ML", "Cloud Architecture"],
   currentFocus: "Building scalable AI-powered applications",
   interests: ["Open Source", "System Design", "Machine Learning", "Cloud Computing"]
 };
@@ -49,14 +40,11 @@ console.log("Welcome to my GitHub profile! 🎉");
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🌐 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -72,7 +60,6 @@ console.log("Welcome to my GitHub profile! 🎉");
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -125,11 +112,11 @@ console.log("Welcome to my GitHub profile! 🎉");
     <tr>
       <td align="center" width="50%">
         <h3>👯 Looking to Collaborate</h3>
-        <p>Open-source projects involving AI/ML, web development, or cloud technologies</p>
+        <p>Open-source projects involving  web development</p>
       </td>
       <td align="center" width="50%">
         <h3>💬 Ask Me About</h3>
-        <p>Full-stack development, AI integration, cloud deployment, and system design</p>
+        <p>Full-stack development, AI integration</p>
       </td>
     </tr>
   </table>
@@ -145,27 +132,16 @@ console.log("Welcome to my GitHub profile! 🎉");
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Aditya-2215/Aditya-2215/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aditya-raj-pandey-7663192b7/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:adityarajpandey2215@gmail.com" target="_blank">
+  <a href="mailto:2k23.psitaiml2311215@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://twitter.com/AdityaRajPandey" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -179,7 +155,7 @@ console.log("Welcome to my GitHub profile! 🎉");
 </div>
 
 - 🔥 I love solving complex problems and building innovative solutions
-- 🎮 Gaming enthusiast and tech blogger in my free time  
+- 🎮 Tech enthusiast and Photographer in part time.  
 - 🌍 Passionate about contributing to open-source communities
 - 📚 Always exploring new technologies and frameworks
 - ☕ Coffee-driven developer who believes in clean, efficient code
