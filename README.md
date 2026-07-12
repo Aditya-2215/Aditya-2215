@@ -298,6 +298,13 @@ Cloud-Native Applications
   <p>Feel free to reach out if you want to collaborate or just have a tech chat!</p>
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Aditya-2215&color=blueviolet&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/Aditya-2215?style=for-the-badge&color=blue)
-  ![Stars](https://img.shields.io/github/stars/Aditya-2215?style=for-the-badge&color=yellow)
+  <p align="center">
+
+<img src="https://img.shields.io/github/followers/Aditya-2215?style=for-the-badge&logo=github&label=Followers&color=0E75B6" />
+
+<img src="https://komarev.com/ghpvc/?username=Aditya-2215&style=for-the-badge&color=0E75B6&label=Profile+Views" />
+
+
+
+</p>
 </div>
